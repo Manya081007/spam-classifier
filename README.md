@@ -2,7 +2,9 @@ SMS Spam Classifier
 A machine learning web application that classifies email and SMS messages as Spam or Not Spam using Natural Language Processing (NLP). The model is developed in Google Colab and integrated into an interactive Streamlit application for real-time predictions.
 \
 Dataset used for model Training: sms spam classifier on Kaggle
+
 Features:
+
 Classifies messages as Spam or Not Spam.
 
 Preprocesses text using NLTK.
